@@ -71,6 +71,7 @@ public class SettingsActivity extends AppCompatActivity {
             }
         });
 
+        // uphold image in status
         database.getReference().child("Users").child(FirebaseAuth.getInstance().getUid())
                 .addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override

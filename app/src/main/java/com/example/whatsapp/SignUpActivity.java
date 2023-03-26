@@ -56,6 +56,8 @@ public class SignUpActivity extends AppCompatActivity {
                             database.getReference().child("Users").child(id).setValue(user);
 
                             Toast.makeText(SignUpActivity.this, "User Created Successfully", Toast.LENGTH_SHORT).show();
+                            Intent intent = new Intent(SignUpActivity.this,SignInActivity.class);
+                            startActivity(intent);
                         }
                         else{
                             Toast.makeText(SignUpActivity.this, task.getException().getMessage(), Toast.LENGTH_SHORT).show();

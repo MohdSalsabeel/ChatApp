@@ -15,6 +15,7 @@
         <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_settings.xml" value="0.2" />
         <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_sign_in.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/fragment_calls.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/fragment_chats.xml" value="0.19791666666666666" />
         <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/sample_receiver.xml" value="0.23177083333333334" />
         <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/Whatsapp/app/src/main/res/layout/sample_sender.xml" value="0.4" />
@@ -28,5 +29,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22083333333333333" />
+      </ProjectState>
+    </option>
   </component>
 </project>
